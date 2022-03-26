@@ -1,0 +1,15 @@
+(footprint "MXPlate_Screwhead_Hole_M2_NPTH" (version 20210925) (generator pcbnew) (layer "F.Cu")
+  (tedit 623B3EFB)
+  (descr "Mounting Hole 2.2mm, M2")
+  (tags "mounting hole 2.2mm m2")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c4b173ea-8727-4c7d-bfd1-dbdcde342de0)
+  )
+  (fp_text value "MXPlate_Screwhead_Hole_M2_NPTH" (at 0 3.2) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1d889a06-978c-4079-bdfe-834f362ef79a)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers F&B.Cu *.Mask) (tstamp a4ad134e-cace-4eff-a00c-6b8652ce0ab1))
+)

@@ -1,0 +1,15 @@
+(footprint "Mount_Hole_m2_slot_NPTH" (version 20210925) (generator pcbnew) (layer "F.Cu")
+  (tedit 6237D512)
+  (descr "Mounting Hole 2.2mm, M2")
+  (tags "mounting hole 2.2mm m2")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -3.2 180) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a6864d5c-d1d6-4ae2-979f-4b6145d800a5)
+  )
+  (fp_text value "Mount_Hole_m2_slot_NPTH" (at 0 3.2 180) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f8929d7e-cb65-4543-b384-2f3d9039677d)
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 5 2.2) (drill oval 5 2.2) (layers F&B.Cu *.Mask) (tstamp 31146624-4c74-4f5f-8a7f-c202ca6a3a6c))
+)

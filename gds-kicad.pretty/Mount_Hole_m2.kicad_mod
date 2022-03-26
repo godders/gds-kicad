@@ -1,0 +1,24 @@
+(footprint "Mount_Hole_m2" (version 20210925) (generator pcbnew) (layer "F.Cu")
+  (tedit 622A5F8F)
+  (descr "Mounting Hole 2.2mm, M2")
+  (tags "mounting hole 2.2mm m2")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c4b173ea-8727-4c7d-bfd1-dbdcde342de0)
+  )
+  (fp_text value "Mount_Hole_m2" (at 0 3.2) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1d889a06-978c-4079-bdfe-834f362ef79a)
+  )
+  (fp_circle (center 0 0) (end 2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 1b9bc65d-fd54-4dc3-88fe-56d8aac26210))
+  (fp_circle (center 0 0) (end 2 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 8a829ac7-9573-4020-b524-152eff7a3f7f))
+  (pad " " thru_hole circle (at 0 0) (size 4 4) (drill 2.2) (layers *.Cu *.Mask) (tstamp 11c63267-406d-4a8d-8909-9ca09922d1cc))
+  (group "" (id df6c7881-afde-4fc2-8b5b-be00ad851995)
+    (members
+      11c63267-406d-4a8d-8909-9ca09922d1cc
+      1b9bc65d-fd54-4dc3-88fe-56d8aac26210
+      8a829ac7-9573-4020-b524-152eff7a3f7f
+    )
+  )
+)
