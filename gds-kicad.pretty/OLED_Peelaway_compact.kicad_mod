@@ -1,4 +1,4 @@
-(footprint "OLED_Peelaway" (version 20211014) (generator pcbnew)
+(footprint "OLED_Peelaway_compact" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5ED5CC49)
   (descr "Connecteur 6 pins")
